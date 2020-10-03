@@ -53,4 +53,4 @@
 |21|Tianen Yao | 13 | TianenYao | <https://github.com/TianenYao/my_website> | <https://tianenyao-portfolio.netlify.app/> |2020-10-02 |
 |22|Napat Matchaseth | 18 | N-Matchaseth | <https://github.com/N-Matchaseth/my_website> | <https://napatmat.netlify.app/> |2020-10-02 |
 |23|Tarek Auf | 28 | tarek-auf | <https://github.com/tarek-auf/test> | <https://tarek-auf.netlify.app/> |2020-10-02 |
-
+|24|Guilherme Baldanzi | 16 | baldanziguilherme | https://github.com/baldanziguilherme/my_website | https://guilhermebaldanzi.netlify.app/ |2020-10-03 |
